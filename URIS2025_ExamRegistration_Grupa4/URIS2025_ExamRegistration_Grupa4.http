@@ -1,0 +1,6 @@
+@URIS2025_ExamRegistration_Grupa4_HostAddress = http://localhost:5179
+
+GET {{URIS2025_ExamRegistration_Grupa4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
